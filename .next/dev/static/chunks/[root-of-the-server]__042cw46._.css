@@ -736,14 +736,6 @@
     left: 12%;
   }
 
-  .-z-10 {
-    z-index: calc(10 * -1);
-  }
-
-  .-z-100 {
-    z-index: calc(100 * -1);
-  }
-
   .z-0 {
     z-index: 0;
   }
@@ -794,10 +786,6 @@
 
   .h-5 {
     height: calc(var(--spacing) * 5);
-  }
-
-  .h-64 {
-    height: calc(var(--spacing) * 64);
   }
 
   .h-\[3px\] {
@@ -970,10 +958,6 @@
     overflow-x: hidden;
   }
 
-  .scroll-smooth {
-    scroll-behavior: smooth;
-  }
-
   .rounded-\[14px\] {
     border-radius: 14px;
   }
@@ -1030,11 +1014,6 @@
   .bg-navy\/85 {
     background-color: #012e43d9;
     background-color: lab(17.0156% -8.01034 -17.6294 / .85);
-  }
-
-  .bg-navy\/90 {
-    background-color: #012e43e6;
-    background-color: lab(17.0156% -8.01034 -17.6294 / .9);
   }
 
   .bg-gradient-to-b {
