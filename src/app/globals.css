@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-navy: #012E43;
+  --color-cyan: #35B9D7;
+  --color-cyan-light: #D6F0F7;
+  --color-gray-light: #F4F7F9;
+
+  --font-heading: var(--font-plus-jakarta), "Plus Jakarta Sans", sans-serif;
+  --font-body: var(--font-dm-sans), "DM Sans", sans-serif;
+}
+
+/* Floating keyframes for decorations */
+@keyframes float {
+  0%, 100% { transform: translateY(0) rotate(var(--r, 15deg)); }
+  50% { transform: translateY(-18px) rotate(var(--r, 15deg)); }
+}
+
+@keyframes spin-slow {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@keyframes shimmer {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+
+.animate-float {
+  animation: float 8s ease-in-out infinite;
+}
+
+.animate-float-reverse {
+  animation: float 10s ease-in-out infinite reverse;
+}
+
+.animate-float-slow {
+  animation: float 7s ease-in-out 1s infinite;
+}
+
+.animate-float-circle {
+  animation: float 9s ease-in-out 2s infinite reverse;
+}
+
+.animate-spin-slow {
+  animation: spin-slow 6s linear infinite;
+}
