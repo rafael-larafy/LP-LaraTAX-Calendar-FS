@@ -10,8 +10,7 @@ export default function Hero() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.7, ease: "easeOut" , delay: 0.2 }}
         className="font-heading text-[clamp(2.6rem,5.5vw,4.2rem)] font-extrabold leading-[1.09] tracking-[-1.0px] max-w-[1200px] mb-7">
-          <span>Chegue preparado em cada  </span><span className=" text-cyan relative"> reunião.</span>Diagnóstico tributário completo <span className=" text-cyan relative"> em minutos.</span>
-          <span className="text-white relative"> </span> <span className="text-cyan relative"></span>
+          <span>Como identificar   </span><span className=" text-cyan relative"> oportunidades </span>Tributárias em<span className=" text-cyan relative"> 40 minutos.</span>
           <span className="absolute bottom-[-15px] left-1/2 -translate-x-1/2 w-[60%] h-[3px] bg-gradient-to-r from-transparent via-cyan to-transparent opacity-35 rounded-sm"/>
       </motion.h1>
 
@@ -49,7 +48,7 @@ export default function Hero() {
         <svg className="text-cyan opacity-60" width={14} height={14} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2}>
           <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
         </svg>
-          Sem compromisso · Resultados em até 72h
+          Sem compromisso · Resultados em média 40 minutos
       </span>
         </motion.div>
     </section>

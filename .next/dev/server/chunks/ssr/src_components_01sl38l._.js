@@ -32,7 +32,7 @@ function Hero() {
                 className: "font-heading text-[clamp(2.6rem,5.5vw,4.2rem)] font-extrabold leading-[1.09] tracking-[-1.0px] max-w-[1200px] mb-7",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                        children: "Chegue preparado em cada  "
+                        children: "Como identificar   "
                     }, void 0, false, {
                         fileName: "[project]/src/components/Hero.tsx",
                         lineNumber: 13,
@@ -40,42 +40,26 @@ function Hero() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                         className: " text-cyan relative",
-                        children: " reunião."
+                        children: " oportunidades "
                     }, void 0, false, {
                         fileName: "[project]/src/components/Hero.tsx",
                         lineNumber: 13,
-                        columnNumber: 50
+                        columnNumber: 43
                     }, this),
-                    "Diagnóstico tributário completo ",
+                    "Tributárias em",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                         className: " text-cyan relative",
-                        children: " em minutos."
+                        children: " 40 minutos."
                     }, void 0, false, {
                         fileName: "[project]/src/components/Hero.tsx",
                         lineNumber: 13,
-                        columnNumber: 136
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                        className: "text-white relative",
-                        children: " "
-                    }, void 0, false, {
-                        fileName: "[project]/src/components/Hero.tsx",
-                        lineNumber: 14,
-                        columnNumber: 11
-                    }, this),
-                    " ",
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                        className: "text-cyan relative"
-                    }, void 0, false, {
-                        fileName: "[project]/src/components/Hero.tsx",
-                        lineNumber: 14,
-                        columnNumber: 58
+                        columnNumber: 117
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                         className: "absolute bottom-[-15px] left-1/2 -translate-x-1/2 w-[60%] h-[3px] bg-gradient-to-r from-transparent via-cyan to-transparent opacity-35 rounded-sm"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Hero.tsx",
-                        lineNumber: 15,
+                        lineNumber: 14,
                         columnNumber: 11
                     }, this)
                 ]
@@ -105,14 +89,14 @@ function Hero() {
                         children: "LaraTAX"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Hero.tsx",
-                        lineNumber: 23,
+                        lineNumber: 22,
                         columnNumber: 15
                     }, this),
                     " recuperamos créditos tributários, blindamos sua operação e transformamos a carga fiscal em vantagem competitiva — com tecnologia exclusiva e segurança jurídica total."
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/components/Hero.tsx",
-                lineNumber: 18,
+                lineNumber: 17,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -139,7 +123,7 @@ function Hero() {
                                 className: "absolute inset-0 bg-gradient-to-r from-transparent via-white/15 to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-600 ease-in-out"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/Hero.tsx",
-                                lineNumber: 34,
+                                lineNumber: 33,
                                 columnNumber: 9
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -147,7 +131,7 @@ function Hero() {
                                 children: "Agendar demonstração"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/Hero.tsx",
-                                lineNumber: 35,
+                                lineNumber: 34,
                                 columnNumber: 9
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
@@ -166,26 +150,26 @@ function Hero() {
                                         y2: 12
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Hero.tsx",
-                                        lineNumber: 43,
+                                        lineNumber: 42,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("polyline", {
                                         points: "12 5 19 12 12 19"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Hero.tsx",
-                                        lineNumber: 44,
+                                        lineNumber: 43,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Hero.tsx",
-                                lineNumber: 36,
+                                lineNumber: 35,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/components/Hero.tsx",
-                        lineNumber: 33,
+                        lineNumber: 32,
                         columnNumber: 7
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -203,25 +187,25 @@ function Hero() {
                                     d: "M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/Hero.tsx",
-                                    lineNumber: 50,
+                                    lineNumber: 49,
                                     columnNumber: 11
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/components/Hero.tsx",
-                                lineNumber: 49,
+                                lineNumber: 48,
                                 columnNumber: 9
                             }, this),
-                            "Sem compromisso · Resultados em até 72h"
+                            "Sem compromisso · Resultados em média 40 minutos"
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/components/Hero.tsx",
-                        lineNumber: 48,
+                        lineNumber: 47,
                         columnNumber: 7
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/components/Hero.tsx",
-                lineNumber: 28,
+                lineNumber: 27,
                 columnNumber: 9
             }, this)
         ]
@@ -501,28 +485,6 @@ const pills = [
             lineNumber: 25,
             columnNumber: 7
         }, ("TURBOPACK compile-time value", void 0))
-    },
-    {
-        label: "Sem custo até encontrar resultados",
-        icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
-            width: "16",
-            height: "16",
-            viewBox: "0 0 24 24",
-            fill: "none",
-            stroke: "currentColor",
-            strokeWidth: "2",
-            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                d: "M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"
-            }, void 0, false, {
-                fileName: "[project]/src/components/TrustFooter.tsx",
-                lineNumber: 49,
-                columnNumber: 9
-            }, ("TURBOPACK compile-time value", void 0))
-        }, void 0, false, {
-            fileName: "[project]/src/components/TrustFooter.tsx",
-            lineNumber: 41,
-            columnNumber: 7
-        }, ("TURBOPACK compile-time value", void 0))
     }
 ];
 function TrustFooter() {
@@ -534,7 +496,7 @@ function TrustFooter() {
                 className: "absolute inset-x-0 top-0 h-px pointer-events-none bg-gradient-to-r from-transparent via-cyan/15 to-transparent"
             }, void 0, false, {
                 fileName: "[project]/src/components/TrustFooter.tsx",
-                lineNumber: 59,
+                lineNumber: 44,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -579,25 +541,25 @@ function TrustFooter() {
                                 children: pill.icon
                             }, void 0, false, {
                                 fileName: "[project]/src/components/TrustFooter.tsx",
-                                lineNumber: 80,
+                                lineNumber: 65,
                                 columnNumber: 11
                             }, this),
                             pill.label
                         ]
                     }, pill.label, true, {
                         fileName: "[project]/src/components/TrustFooter.tsx",
-                        lineNumber: 72,
+                        lineNumber: 57,
                         columnNumber: 9
                     }, this))
             }, void 0, false, {
                 fileName: "[project]/src/components/TrustFooter.tsx",
-                lineNumber: 64,
+                lineNumber: 49,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/components/TrustFooter.tsx",
-        lineNumber: 57,
+        lineNumber: 42,
         columnNumber: 5
     }, this);
 }
